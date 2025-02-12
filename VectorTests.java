@@ -1,7 +1,7 @@
 
 /**
  *
- * @author Nikita Neveditsin A00000000
+ * @author Nikita Neveditsin (A00000000)
  */
 public class VectorTests {
 

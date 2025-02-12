@@ -3,8 +3,8 @@ import java.util.Arrays;
 /**
  * a class representing a vector
  *
- * @author Nikita Neveditsin A00000000
- * @author Hunter Turner A00488748
+ * @author Nikita Neveditsin (A00000000)
+ * @author Hunter Turner (A00488748)
  */
 public class Vector {
 
